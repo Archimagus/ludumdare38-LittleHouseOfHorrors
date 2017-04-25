@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1be99a6fb2af90140ad995927809039f
+timeCreated: 1492987904
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _portalClosingSound: {fileID: 8300000, guid: 1c0c3235232b86a49b0e14a04097f99a,
+      type: 3}
+  - _PortalOpeningSound: {fileID: 8300000, guid: 1c0c3235232b86a49b0e14a04097f99a,
+      type: 3}
+  - _portalClosePrefab: {fileID: 1600842830393208, guid: fd30fdc7f882b704fbe8979d23ab3169,
+      type: 2}
+  - RoomUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

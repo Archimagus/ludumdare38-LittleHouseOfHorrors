@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0161bdfb502e94046b7278d6979dcce9
+timeCreated: 1492899193
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _roomCanvasPrefab: {fileID: 114233596695741966, guid: a42499d3a56f71b478388d2218ac7dd3,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

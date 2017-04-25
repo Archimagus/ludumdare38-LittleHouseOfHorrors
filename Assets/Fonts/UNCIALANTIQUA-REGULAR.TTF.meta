@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 99bb0528d2fc54143a978554d483b01e
+timeCreated: 1492889823
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Uncial Antiqua
+  fontNames:
+  - Uncial Antiqua
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

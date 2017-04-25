@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f038e9e96494f034ca93b5ec1798964a
+timeCreated: 1492996661
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MeathFLF
+  fontNames:
+  - MeathFLF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
